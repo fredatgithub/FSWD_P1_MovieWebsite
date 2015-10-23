@@ -1,6 +1,3 @@
-import webbrowser
-
-
 class Movie():
     """Defines the movie data structure"""
 
