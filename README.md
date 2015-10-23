@@ -6,7 +6,7 @@ This project requires Python v2.* or later installed
 
 ## How to Run This Project
 1. Clone this repository to your computer
-2. Navigate to the folder you downloaded and run entertainment_center.py
+2. Navigate to the folder you downloaded and run movies/entertainment_center.py
 
 ## Extra Credit Description
 * Added lead role and IMDB URL properties to the Movie data structure
