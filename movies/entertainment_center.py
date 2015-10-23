@@ -35,6 +35,13 @@ pacific_rim = media.Movie(
     "https://www.youtube.com/watch?v=5guMumPFBag"
 )
 
-movies = [toy_story, avatar, fifth_element, matrix, pacific_rim]
+boxtrolls = media.Movie(
+    "The Boxtrolls",
+    "A delusional child is held hostage by garbage-gnomes",
+    "https://upload.wikimedia.org/wikipedia/en/d/db/The_Boxtrolls_poster.jpg",
+    "https://www.youtube.com/watch?v=Q2dFVnp5K0o"
+)
+
+movies = [toy_story, avatar, fifth_element, matrix, pacific_rim, boxtrolls]
 
 fresh_tomatoes.open_movies_page(movies)
