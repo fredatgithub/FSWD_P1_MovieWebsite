@@ -50,5 +50,4 @@ boxtrolls = media.Movie(
     "http://www.imdb.com/title/tt0787474/"
 )
 movies = [toy_story, avatar, fifth_element, matrix, pacific_rim, boxtrolls]
-
 fresh_tomatoes.open_movies_page(movies)
