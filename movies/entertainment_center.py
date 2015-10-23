@@ -1,4 +1,4 @@
-from . import media
+import media
 
 toy_story = media.Movie(
     "Toy Story",
@@ -17,3 +17,5 @@ avatar = media.Movie(
 )
 
 print(avatar.title)
+
+avatar.show_trailer()
